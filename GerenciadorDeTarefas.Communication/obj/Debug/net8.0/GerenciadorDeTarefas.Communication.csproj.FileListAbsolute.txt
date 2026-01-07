@@ -1,0 +1,11 @@
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.deps.json
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\bin\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfoInputs.cache
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.AssemblyInfo.cs
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.dll
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\refint\GerenciadorDeTarefas.Communication.dll
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\GerenciadorDeTarefas.Communication.pdb
+C:\Users\Amanda e Mateus\Desktop\Mateus\Rocketseat\GerenciadorDeTarefas\GerenciadorDeTarefas.Communication\obj\Debug\net8.0\ref\GerenciadorDeTarefas.Communication.dll

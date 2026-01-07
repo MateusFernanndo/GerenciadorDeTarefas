@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GerenciadorDeTarefas.Application/GerenciadorDeTarefas.Application.csproj" />
+  <Project Path="GerenciadorDeTarefas.Communication/GerenciadorDeTarefas.Communication.csproj" />
+  <Project Path="GerenciadorDeTarefas/GerenciadorDeTarefas.csproj" />
+</Solution>
