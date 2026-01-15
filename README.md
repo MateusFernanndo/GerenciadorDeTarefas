@@ -4,7 +4,7 @@
 
 O **Gerenciador de Tarefas** é um projeto backend desenvolvido em **.NET / C#**, projetado para demonstrar de forma clara e explícita **arquitetura de software**, **boas práticas de código** e **organização em camadas**. O sistema implementa um gerenciamento básico de tarefas e foi estruturado intencionalmente para ser facilmente compreendido tanto por desenvolvedores quanto por ferramentas automatizadas de análise de código (AI-friendly).
 
-Este repositório faz parte de um **portfólio profissional** e prioriza clareza estrutural, nomenclaturas explícitas e previsibilidade do fluxo de dados.
+Este repositório faz parte de um **portfólio em nível júnior** e prioriza clareza estrutural, nomenclaturas explícitas e previsibilidade do fluxo de dados.
 
 ---
 
@@ -111,6 +111,12 @@ Este projeto foi projetado para ser:
 * Preparado para testes automatizados e CI/CD
 
 Nomes, estruturas de pastas e responsabilidades são intencionalmente explícitos.
+
+---
+
+## Contexto de Portfólio
+
+Este projeto integra meu portfólio como **Desenvolvedor Backend .NET em nível júnior**, demonstrando fundamentos técnicos, organização e compromisso com boas práticas desde o início da carreira.
 
 ---
 
